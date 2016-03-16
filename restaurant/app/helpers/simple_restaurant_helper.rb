@@ -1,0 +1,2 @@
+module SimpleRestaurantHelper
+end
